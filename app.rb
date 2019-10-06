@@ -4,9 +4,14 @@ module FormsLab
   class App < Sinatra::Base
 
     # code other routes/actions here
-      get '/' do
-        erb :'../views/super_hero'
-      end
+     describe 'GET /' do
+
+
+
+      get '/'
+
+
+    end
 
   end
 end
