@@ -10,10 +10,7 @@ module FormsLab
         erb :'../views/super_hero'
 
 
-      end
-
-
-      erb :'../views/super_hero'
+   
 
 
     end
